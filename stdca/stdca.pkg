@@ -1,5 +1,8 @@
-d 'DEA': Data envelopment analysis
+d 'stdca': Decision curve analysis Use stdca With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f dca.ado
+f dca.hlp
+f stcompet.ado
+f stcompet.hlp
+f stdca.ado
+f stdca.hlp
