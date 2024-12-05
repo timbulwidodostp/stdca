@@ -1,6 +1,8 @@
 # stdca
 Decision curve analysis Use stdca With STATA 18
 
+https://www.youtube.com/watch?v=4gH-R_rft1g
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
